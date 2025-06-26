@@ -1,0 +1,11 @@
+
+    @media (max-width: 640px) { 
+        .top1{
+
+            display: flex;
+            background-color: rgb(6, 6, 26);
+            width: 100vw;
+            margin: 0 auto;
+            flex-direction: column;
+        }
+     }

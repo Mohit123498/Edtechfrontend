@@ -1,0 +1,13 @@
+#brand{
+    color: white;
+    font-size: 26px;
+}
+@media screen and (  max-width:350px){
+    #brand{
+        color: white;
+        font-size: 18px;
+    }
+}
+    
+
+
